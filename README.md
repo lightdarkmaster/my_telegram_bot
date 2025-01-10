@@ -88,3 +88,5 @@ This is a simple Telegram bot built using Python and the `python-telegram-bot` l
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
+# install packages
+1. pip install python-telegram-bot
