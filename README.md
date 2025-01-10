@@ -1,5 +1,4 @@
-# my_telegram_bot
-# Telegram Bot
+# My Telegram Bot
 
 This is a simple Telegram bot built using Python and the `python-telegram-bot` library. The bot can respond to commands, handle user messages, and provide interactive responses based on predefined conditions.
 
@@ -13,8 +12,9 @@ This is a simple Telegram bot built using Python and the `python-telegram-bot` l
 
 ## Prerequisites
 
-- Python 3.8 or later
+- [Python-3.9](https://www.python.org/) or later.
 - A Telegram bot token from [BotFather](https://core.telegram.org/bots#botfather)
+- [Python-Telegram-Bot](https://python-telegram-bot.org/)
 
 ## Installation
 
